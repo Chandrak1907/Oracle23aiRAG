@@ -38,7 +38,7 @@ If you are new to Oracle23ai, there are chances that you might encounter issues 
     ```
     sudo mkdir -p /opt/oracle  
     cd /opt/oracle  
-    sudo unzip /opt/oracle/instantclient-basic-linux.x64-19.8.0.0.0dbru.zip 
+    sudo unzip /opt/oracle/instantclient-basic-linux.x64-23.4.0.24.05.zip
     ```
 
 8. Install a linux package libaio1 
