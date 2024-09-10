@@ -46,7 +46,7 @@ If you are new to Oracle23ai, there are chances that you might encounter issues 
     ``` sudo apt-get install libaio1 ```
 9.  Add the path the  external variable LD_LIBRARY_PATH by adding below line to .bashrc file
 
-    ```  export LD_LIBRARY_PATH=/opt/oracle/instantclient_19_8:$LD_LIBRARY_PATH  ```
+    ```  export LD_LIBRARY_PATH=/opt/oracle/instantclient_23_4:$LD_LIBRARY_PATH  ```
 10. After saving the .bashrc file, source it:
     ```source ~/.bashrc ```
 
